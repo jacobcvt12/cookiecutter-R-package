@@ -1,0 +1,14 @@
+language: 
+    - r
+    - python
+
+sudo: required
+
+r_packages:
+    - rmarkdown
+
+before_install:
+    - pip install cookiecutter
+    - cookiecutter . --no-input
+
+script: cd ./boilerplate && R CMD check
