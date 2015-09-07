@@ -1,6 +1,6 @@
 # cookiecutter-R-package #
 
-[![Build Status](https://travis-ci.org/jacobcvt12/cookiecutter-R-package.svg?branch=master)](https://travis-ci.org/jacobcvt12/cookiecutter-R-package)
+[![Build Status](https://travis-ci.org/Jacobcvt12/cookiecutter-R-package.svg?branch=master)](https://travis-ci.org/Jacobcvt12/cookiecutter-R-package)
 
 Cookiecutter template for an R package. See https://github.com/audreyr/cookiecutter.
 
