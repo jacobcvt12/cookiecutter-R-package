@@ -9,7 +9,7 @@ Imports:
 Suggests:
     testthat
 VignetteBuilder: knitr
-License: {{ cookiercutter.license }}
+License: {{ cookiecutter.license }}
 LazyData: true
 URL: https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.reponame}}
 BugRepots: https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.reponame}}/issues
