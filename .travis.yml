@@ -8,7 +8,7 @@ r_packages:
     - rmarkdown
 
 before_install:
-    - pip install cookiecutter
+    - sudo pip install cookiecutter
     - cookiecutter . --no-input
 
 script: cd ./boilerplate && R CMD build . && R CMD check boilerplate_0.0.1.tar.gz
