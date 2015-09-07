@@ -5,7 +5,7 @@ date: \today
 output: pdf_document
 bibliography: references.bib
 vignette: >
-  %\VignetteIndexEntry{{{ cookiecutter.full_name }}}
+  %\VignetteIndexEntry{ {{ cookiecutter.project_name }} }
   %\VignetteEngine{knitr::rmarkdown}
   %\usepackage[utf8]{inputenc} 
 ---
