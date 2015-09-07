@@ -1,0 +1,15 @@
+# Ignore R associated files
+.Rproj.user
+.Rprofile
+.Rhistory
+
+# Ignore R data
+.RData
+
+# ignore produced vignettes
+inst/doc/*
+vignettes/*.html
+vignettes/*.pdf
+
+# ignore OS X Finder files
+*.DS_Store

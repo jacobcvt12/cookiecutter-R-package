@@ -1,0 +1,15 @@
+Package: {{ cookiecutter.repo_name }}
+Title: {{ cookiecutter.project_name }}
+Version: {{ cookiecutter.version }}
+Maintainer: {{ cookiecutter.full_name}} <{{ cookiecutter.email }}>
+Description: What the package does (one paragraph)
+Author: {{ cookiecutter.full_name }}
+Depends:
+Imports:
+Suggests:
+    testthat
+VignetteBuilder: knitr
+License: {{ cookiercutter.license }}
+LazyData: true
+URL: https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.reponame}}
+BugRepots: https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.reponame}}/issues
