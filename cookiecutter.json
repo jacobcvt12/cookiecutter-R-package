@@ -1,0 +1,10 @@
+{
+    "full_name": "Jacob Carey",
+    "email": "jacobcvt12@gmail.com",
+    "github_username": "jacobcvt12",
+    "project_name": "R package",
+    "repo_name": "boilerplate",
+    "project_short_description": "R package contains all the boilerplate you need to create an R package.",
+    "version": "0.0.1",
+    "license": "Artistic-2.0"
+}
