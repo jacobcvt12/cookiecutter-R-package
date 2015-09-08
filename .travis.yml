@@ -4,6 +4,9 @@ language:
 
 sudo: required
 
+r_packages:
+    - rmarkdown
+
 before_install:
     - sudo pip install cookiecutter
     - cookiecutter . --no-input
