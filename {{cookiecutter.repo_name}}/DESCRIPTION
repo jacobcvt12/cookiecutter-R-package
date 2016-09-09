@@ -13,5 +13,5 @@ Suggests:
 VignetteBuilder: knitr
 License: {{ cookiecutter.license }}
 LazyData: true
-URL: https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.reponame}}
-BugRepots: https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.reponame}}/issues
+URL: https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name}}
+BugRepots: https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name}}/issues
