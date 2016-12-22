@@ -1,10 +1,10 @@
 Package: {{ cookiecutter.repo_name }}
-Title: {{ cookiecutter.project_name }}
+Title: {{ cookiecutter.project_title }}
 Version: {{ cookiecutter.version }}
 Maintainer: {{ cookiecutter.full_name}} <{{ cookiecutter.email }}>
 Description: {{ cookiecutter.project_short_description }}
 Author: {{ cookiecutter.full_name }}
-Depends:
+Depends: {{ cookiecutter.depends }}
 Imports:
 Suggests:
     testthat,
@@ -12,6 +12,7 @@ Suggests:
     rmarkdown
 VignetteBuilder: knitr
 License: {{ cookiecutter.license }}
+Encoding: UTF-8
 LazyData: true
 URL: https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name}}
 BugRepots: https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name}}/issues
