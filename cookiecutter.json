@@ -1,7 +1,7 @@
 {
     "full_name": "Firstname Lastname",
     "email": "someone@gmail.com",
-    "git username": "someone; who owns the project, e.g. a single user or a group",
+    "github_username": "someone; who owns the project, e.g. a single user or a group",
     "repo_name": "R package name; this name will be used in all git paths; choose carefully", 
     "project_title": "What the Package Does (one line, title case)",
     "project_short_description": "What the package does (one paragraph).",
