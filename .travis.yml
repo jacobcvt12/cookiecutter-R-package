@@ -11,3 +11,4 @@ before_install:
     - sudo pip install cookiecutter
     - cookiecutter . --no-input repo_name=boilerplate
     - cd ./boilerplate
+    - R -e "devtools::document()"
