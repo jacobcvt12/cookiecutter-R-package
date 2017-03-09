@@ -1,7 +1,7 @@
 {
     "full_name": "Firstname Lastname",
     "email": "someone@gmail.com",
-    "github_username": "someone; who owns the project, e.g. a single user or a group",
+    "github_username": "the person or group who owns the project; from the git(lab/hub) you want to contribute to",
     "repo_name": "R package name; this name will be used in all git paths; choose carefully", 
     "project_title": "What the Package Does (one line, title case)",
     "project_short_description": "What the package does (one paragraph).",
