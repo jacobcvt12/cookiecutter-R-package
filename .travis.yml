@@ -9,5 +9,5 @@ r_packages:
 
 before_install:
     - sudo pip install cookiecutter
-    - cookiecutter . --no-input
-    - cd ./boilerplate repo_name=boilerplate
+    - cookiecutter . --no-input repo_name=boilerplate
+    - cd ./boilerplate
