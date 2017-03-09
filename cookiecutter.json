@@ -6,6 +6,6 @@
     "project_title": "What the Package Does (one line, title case)",
     "project_short_description": "What the package does (one paragraph).",
     "version": "0.0.1",
-    "license": "MIT",
+    "license": "Artistic-2.0",
     "depends": "R (>= 3.3.1)"
 }
