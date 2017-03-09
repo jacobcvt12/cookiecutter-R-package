@@ -13,3 +13,6 @@ vignettes/*.pdf
 
 # ignore OS X Finder files
 *.DS_Store
+
+# ignore emacs backup files
+*~

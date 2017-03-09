@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+README.html
+# exclude IDE-project files from RStudio and Eclipse
+*.Rproj
+*.project
