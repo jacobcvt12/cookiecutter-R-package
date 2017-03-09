@@ -10,4 +10,4 @@ r_packages:
 before_install:
     - sudo pip install cookiecutter
     - cookiecutter . --no-input
-    - cd ./boilerplate
+    - cd ./boilerplate repo_name=boilerplate
